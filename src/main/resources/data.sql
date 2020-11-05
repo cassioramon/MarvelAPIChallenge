@@ -1,7 +1,7 @@
 INSERT INTO Character (id, name, description, modified) VALUES
 	(1, 'Hulk', 'Green muscle guy that smashes everything', CURRENT_TIMESTAMP()),
 	(2, 'IronMan', 'Genious Playboy Filantropist Billionarie', CURRENT_TIMESTAMP()),
-	(3, 'Thanos', 'The Crazy Titan', CURRENT_TIMESTAMP());
+	(3, 'Thanos', 'The Crazy Titan', CURRENT_TIMESTAMP()),
 	(4, 'Spider-Man', 'Your friendly neighborhood', CURRENT_TIMESTAMP());
 
 INSERT INTO Comic (id, title, description) VALUES
